@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonutsNCodce
 - 👀 I’m interested in Robots, AI and leading the sales force that brings it home.
-- 🌱 I’m currently learning AI - I coded a gold trading platform via chatgpt and github with no experience in coding or trading.  Unbelievable.
+- 🌱 I’m currently learning AI - I coded a gold trading platform via chatgpt and github with no experience in coding or trading.  Unbelievable.  It connects and monitors and trades about 30 Forex symbols with no human involvement.  How did I do that again?
 - 💞️ I’m looking to collaborate on the next company to bridge the gap and bring robots and ai into the home for consumers at scale.  I have years of startup experience and want to put it to good use.
 - 📫 How to reach me scott.kirkpatrick.8808@gmail.com or 858.583.0455
 - 😄 Pronouns: male
